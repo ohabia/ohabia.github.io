@@ -1,6 +1,6 @@
 ---
-title: Abia's blog!
-date: 2022-04-03 12:34:00 +0800
+title: Hi👋 This is abia!
+date: 2022-04-03 15:16:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
@@ -13,23 +13,13 @@ math: false
 mermaid: true
 
 image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
+  src: /assets/blog_res/2021-04-03-hello-abia.assets/lorde.jpeg
+  alt: 
 typora-root-url: ../../ohabia.github.io
 ---
 
-# 感谢关注～ 
+## 感谢关注～ 
 
 
-这里可以放代码片段噢～
-```c++
-//代码片段
-int main(){
-  hello world;
-}
-```
 
-Yeah!
-
-It's abia!
-
+记录一下abia blog上的第一篇废话文章✌️
