@@ -10,19 +10,18 @@ on:
 
 jobs:
   continuous-delivery:
-
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup Node.js 20
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-          
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # for posts's lastmod
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
